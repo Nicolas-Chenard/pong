@@ -1,0 +1,17 @@
+/* @font-face{
+    font-family: "fnt";
+    src: url("../font/pixelfont.ttf") format('truetype');
+} */
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+canvas{
+    background-color: rgb(0, 0, 0);
+    
+}
+*{
+    /* font-family: "fnt"; */
+    color:white;
+    font-size: 1.5em;
+}
